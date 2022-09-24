@@ -1,0 +1,12 @@
+body{
+    background-image: url(doc1.jpg);
+    background-size: cover;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+
+.navbar{
+     background-image: linear-gradient(to right) !important;
+}

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Website1</title>
+    <style>
+        body{
+            background-image:url("bhavchoice.jpg");background-repeat:no-repeat;background-size:1380px 647px ;
+        }
+    </style>
+</head>
+<body>
+    <center><h1 style="color:black;font-size:40px;">Choose The Coffee Of Your Choice!</h1></center>
+    <center><button style="width:150px;height:59px;">Espresso</button></center><br>
+    <center><a href="bhavya3.html">Click Here</a></center>
+    <center><button style="width:150px;height:59px;">Latte</button></center><br>
+    <center><a href="bhavya4.html">Click Here</a></center>
+    <center><button style="width:150px;height:59px;">Cappuccino</button></center><br>
+    <center><a href="bhavya5.html">Click Here</a></center>
+    <center><button style="width:150px;height:59px;">Americano</button></center><br>
+    <center><a href="bhavya6.html">Click Here</a></center>
+    <center><button style="width:150px;height:59px;">Flat white</button></center><br>
+    <center><a href="bhavya7.html">Click Here</a></center>
+    <center><button style="width:150px;height:59px;">Irish Coffee</button></center>
+    <center><a href="bhavya8.html">Click Here</a></center>
+</body>
+</html>
